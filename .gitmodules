@@ -1,3 +1,6 @@
 [submodule "r7-ioserver"]
 	path = r7-ioserver
 	url = https://github.com/kaliatech/r7-ioserver.git
+[submodule "r7-ioserver-ui"]
+	path = r7-ioserver-ui
+	url = https://github.com/kaliatech/r7-ioserver-ui.git
